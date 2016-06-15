@@ -1,4 +1,0 @@
-Some configuration file
-
-Official setting here, make sure it's true for prod!
-false; //I need this false for my dev environment
